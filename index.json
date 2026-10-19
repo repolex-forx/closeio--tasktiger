@@ -1,0 +1,11 @@
+{
+  "org": "closeio",
+  "repo": "tasktiger",
+  "versions": [
+    {
+      "commit": "881a59f58742a155ce55313c6b46a2fdd06f8962",
+      "tag": "v0.26.3",
+      "parsed_at": "2026-10-19T13:04:05.216894+00:00"
+    }
+  ]
+}
