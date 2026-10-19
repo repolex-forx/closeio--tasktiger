@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/closeio/tasktiger/commit/881a59f58742a155ce55313c6b46a2fdd06f8962",
       "git:hexsha": "881a59f58742a155ce55313c6b46a2fdd06f8962",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.26.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.26.3",
+      "repolex:parsedAt": "2026-10-19T13:04:05.213744+00:00"
     },
     {
       "@id": "https://repolex.ai/r/closeio/tasktiger/commit/3adbb929c34143a43eaa25573dbd163698d6cf69",
