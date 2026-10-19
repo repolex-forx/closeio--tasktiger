@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/closeio/tasktiger/commit/881a59f58742a155ce55313c6b46a2fdd06f8962",
       "git:hexsha": "881a59f58742a155ce55313c6b46a2fdd06f8962",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.26.3"
     },
     {
